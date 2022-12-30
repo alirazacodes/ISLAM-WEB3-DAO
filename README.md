@@ -1,5 +1,4 @@
 <div id="top"></div>
-
 <br />
 <div align="center">
   <a href="https://github.com/alirazacodes/ISLAM-3.0-DAO">
