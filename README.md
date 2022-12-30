@@ -52,3 +52,30 @@ ISLAM 3.0 will encompass various sites such as:
 ## Working
 
 ![Islam3.0-working](https://github.com/alirazacodes/ISLAM-3.0-DAO/blob/main/scripts/assets/Islam3.0-working%20diagram.svg)
+
+## Business Model
+
+
+| Key Partners        | Key Activities                 | Value Propositions         | Customer Relationships   | Customer Segmentations  | 
+| ------------------- | ------------------------------ | -------------------------- | ------------------------ | ----------------------- |
+|                     |                                |                            |                          | -Adults 20-40 Years Old | 
+| - Web3 devs         | - Create & manage communities  | -Decentralized the Islamic | -Organic & Paid Marketing|                         |                          
+|                     |                                |  knowledge & research      |                          | -Pakistan have 60%      |  
+| - Web3marketers     | - Raise Funds|                 |  content                   |                          |  population under 30yrs |
+|                     |                                |                            | -SM Channels communicate |  old                    |
+| - Islamic Scholars  |                                | -Reward system             |  e.g twitter voice       | -Grant Organizations    | 
+|                     |                                | -Governance & policy-making|                          |                         |
+| - Content Creators  |                                |  via decentralized DAOs    |                          | -Donors                 |
+|                     |                                |                            |                          |                         |
+
+
+| Key Resources       | Channels                | Cost Structure            | Revenue Streams           |
+| ------------------- | ----------------------- | ------------------------- | ------------------------- |
+|                     | -Twitter                |  DAO- Data minting gas    | -Rewards system           |
+| -Web3 contributors  | -Discord                |  fee                      | -Individual donors & grant| 
+|                     | -Telegram               |                           |  organizations            | 
+| -Community managers | -Other organic & paid   |                           |                           |
+|                     |  mediums                |                           |                           |
+|                     |                         |                           |                           |  
+
+
