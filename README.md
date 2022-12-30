@@ -51,3 +51,4 @@ ISLAM 3.0 will encompass various sites such as:
 
 ## Working
 
+![Islam3.0-working](https://github.com/alirazacodes/ISLAM-3.0-DAO/blob/main/scripts/assets/Islam3.0-working%20diagram.svg)
