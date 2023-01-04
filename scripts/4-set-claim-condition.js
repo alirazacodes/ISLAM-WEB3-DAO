@@ -4,7 +4,7 @@ import { MaxUint256 } from "@ethersproject/constants";
 (async () => {
   try {
     const editionDrop = await sdk.getContract(
-      "0x76F44C969EaEf65d883856adb67EbdA08b7978c3",
+      "0x0043ccb97228dd592664e0c8bb5b8960C12acD02",
       "edition-drop"
     );
     // We define our claim conditions, this is an array of objects because
